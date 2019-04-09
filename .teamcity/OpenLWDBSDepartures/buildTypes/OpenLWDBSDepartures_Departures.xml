@@ -7,7 +7,7 @@
       <option name="artifactRules" value="TrainData/bin/Release =&gt; TrainData.zip" />
     </options>
     <parameters>
-      <param name="Configuration" value="Release" />
+      <param name="system.Configuration" value="Release" />
     </parameters>
     <build-runners>
       <runner id="RUNNER_18" name="" type="MSBuild">
