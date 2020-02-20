@@ -12,11 +12,6 @@
         <param name="showChanges" value="true" />
       </parameters>
     </extension>
-    <extension id="PROJECT_EXT_16" type="active_storage">
-      <parameters>
-        <param name="active.storage.feature.id" value="DefaultStorage" />
-      </parameters>
-    </extension>
   </project-extensions>
   <cleanup />
 </project>
